@@ -6,7 +6,8 @@
 
 <h1 align="center">Hi 👋, I'm Yash Bhadreshwara</h1>
 <h3 align="center">An Aspiring Sports Analyst</h3>
-<img align="right" alt="Coding" width="400" src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff7a74c0a-da25-4457-aa20-880dc7ac8eea_800x600.gif">
+
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/3oKIPEqDGUULpEU0aQ/200w.gif?cid=6c09b9526zxf9yb8mxoe6p97t3wwv8np09w0lhvwrjweezoy&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashbhadreshwara&label=Profile%20views&color=0e75b6&style=flat" alt="yashbhadreshwara" /> </p>
 
