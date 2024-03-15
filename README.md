@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Sports Projects**
 - 🧑🏻‍💼 All of my projects are available at [Portfolio](yashbhadreshwara.github.io)
-- 📄 Resume: [View my resume]()
+- 📄 Resume: [View my resume](https://www.linkedin.com/in/yash-bhadreshwara/)
 - 👔 LinkedIn: [Yash Bhadreshwara](https://www.linkedin.com/in/yash-bhadreshwara/)
 - 💻 LeetCode: [Yash1611](https://leetcode.com/Yash1611/)
 - ✉️ Reach me at **Bhadreshwara.y@northeastern.edu / Ybhadreshwara@gmail.com**
