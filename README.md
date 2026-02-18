@@ -74,6 +74,3 @@ I enjoy working on problems related to:
 🔗 LinkedIn: https://www.linkedin.com/in/yash-bhadreshwara/  
 💻 GitHub: https://github.com/YashBhadreshwara
 
----
-
-⭐️ From [YashBhadreshwara](https://github.com/YashBhadreshwara)
