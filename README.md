@@ -34,26 +34,6 @@ I enjoy working on problems related to:
 
 ---
 
-## 📌 Featured Projects
-
-### 🚁 AI-Powered Drone Delivery Optimization
-- NLP-based order processing + Vehicle Routing Optimization
-- 98% constraint satisfaction with <1 sec routing
-- Built geospatial dataset for Boston deliveries
-
-### 🏏 T20 Cricket Score Predictor
-- ML model trained on ball-by-ball cricket dataset
-- Streamlit web app for real-time predictions
-
-### 🌍 BRFSS Public Health Analytics Dashboard
-- Built ETL pipeline for CDC health dataset
-- Tableau dashboards for obesity & nutrition trends
-
-### ⚽ UEFA Champions League Dashboard
-- SQL + Tableau project for match & player analytics
-
----
-
 ## 💼 Experience
 
 📊 **Business Analyst — Thinkverse (Harvard Business School)**  
